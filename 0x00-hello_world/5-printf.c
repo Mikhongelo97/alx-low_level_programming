@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Return: Always 0
+ *main - entry point
+ *Description - this uses printf
+ *Return: return an integer
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
