@@ -1,7 +1,7 @@
-#include <stdio.h>  
-/** 
-  * main - Prints the alphabet. 
-  * 
+#include <stdio.h>
+/**
+* main - Prints the alphabet.
+  *
   * Return: Always 0 (Success)
   */ 
 int main(void)
@@ -14,4 +14,4 @@ putchar(alp[i]);
 }
 putchar('\n');
 return (0); 
-} 
+}
