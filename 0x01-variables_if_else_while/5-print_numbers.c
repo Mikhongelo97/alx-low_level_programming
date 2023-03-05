@@ -1,16 +1,16 @@
 #include <stdio.h>
-
 /**
- * main - Entry point
- *
- * Return: Always 0
+ * main - Prints numbers from 0 to 9. 
+ *        
+ * Return: Always 0 (Success) 
  */
 int main(void)
 {
-int a;
-for (a = 0; a < 10; a++)
-putchar (a);
-printf("%d", a);
+int i;
+for (i = 0; i < 10; i++)
+{
+printf("%d", i);
+}
 putchar('\n');
 return (0);
 }
