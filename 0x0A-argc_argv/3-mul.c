@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * atoi - converts a string to an integer
