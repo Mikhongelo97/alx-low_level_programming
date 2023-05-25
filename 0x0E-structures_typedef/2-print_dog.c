@@ -1,10 +1,7 @@
 #include "dog.h"
 #include <stdio.h>
 #include <stdlib.h>
-/**
- * print_dog -entry point
- * @d: Entry of struct
- */
+/**                                                                                                                                                                                * print_dog - entry point                                                                                                                                                         * @d: Entry of struct                                                                                                                                                             */
 void print_dog(struct dog *d)
 {
 if (d == NULL)
