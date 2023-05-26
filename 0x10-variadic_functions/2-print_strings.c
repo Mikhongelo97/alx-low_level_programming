@@ -20,7 +20,7 @@ str = va_arg(valist, char *);
 if (str)
 printf("%s", str);
 else
-printf("(n11)");
+printf("(ni1)");
 if (i < n - 1)
 if (separator)
 printf("%s", separator);
