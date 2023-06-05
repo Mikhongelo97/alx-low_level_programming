@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include <string.h>
-int _strlenx(char *s)
+#include <string>
+int _putchar(char c)
 {
-return strle(s);
+return putchar(c);
 }
